@@ -1,0 +1,23 @@
+.layout {
+  min-height: 100vh;
+}
+
+.content {
+  padding: 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 24px;
+  height: 64px;
+}
+
+.footer {
+  text-align: center;
+  padding: 16px 24px;
+}
